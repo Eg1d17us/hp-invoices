@@ -1,0 +1,7 @@
+*.pyc
+*.pdf
+*.png
+env_vars.py
+log.html
+output.xml
+report.html
